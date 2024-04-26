@@ -1,0 +1,7 @@
+Metrics,Quadratic Discriminant Analysis
+Training Accuracy,0.871
+Training Recall,0.816
+CV Accuracy,0.843
+CV Recall,0.798
+Test Accuracy,0.8
+Test Recall,0.696

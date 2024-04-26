@@ -1,0 +1,7 @@
+Metrics,XGBOOST
+Training Accuracy,0.894
+Training Recall,0.842
+CV Accuracy,0.847
+CV Recall,0.821
+Test Accuracy,0.667
+Test Recall,0.435

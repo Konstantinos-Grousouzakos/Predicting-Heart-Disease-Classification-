@@ -1,0 +1,7 @@
+Metrics,Linear Discriminant Analysis
+Training Accuracy,0.855
+Training Recall,0.781
+CV Accuracy,0.859
+CV Recall,0.8
+Test Accuracy,0.756
+Test Recall,0.696

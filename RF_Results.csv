@@ -1,0 +1,7 @@
+Metrics,Random Forest Classifier
+Training Accuracy,0.937
+Training Recall,0.895
+CV Accuracy,0.827
+CV Recall,0.803
+Test Accuracy,0.778
+Test Recall,0.739

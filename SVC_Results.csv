@@ -1,0 +1,7 @@
+Metrics,Support Vector Classifier
+Training Accuracy,0.808
+Training Recall,0.798
+CV Accuracy,0.804
+CV Recall,0.845
+Test Accuracy,0.8
+Test Recall,0.739

@@ -1,0 +1,7 @@
+Metrics,Gaussian Naive Bayes
+Training Accuracy,0.843
+Training Recall,0.807
+CV Accuracy,0.827
+CV Recall,0.784
+Test Accuracy,0.844
+Test Recall,0.783

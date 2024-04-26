@@ -1,0 +1,7 @@
+Metrics,K-Nearest Neighbors
+Training Accuracy,0.855
+Training Recall,0.825
+CV Accuracy,0.843
+CV Recall,0.812
+Test Accuracy,0.778
+Test Recall,0.739
