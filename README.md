@@ -3,12 +3,16 @@ DESCRIPTION OF THE PROJECT
 Background
 The dataset in question is a component of the textbook "Introduction to Statistical Learning."
 
+
 Hyperlink to dataset: https://www.statlearning.com/resources-python
+
 
 Goal
 Our objective is to construct a predictive model to determine whether a patient has Heart Disease or not. Additionally, we aim to minimize Type I error, meaning we want to avoid misclassifying a patient as not having Heart Disease when they actually do. Therefore, the metric we prioritize for optimizing the models is recall.
 
+
 Data Dictionary
+
 Age: Age of the patient in years
 
 Sex: Gender of the patient. 0: Female 1: Male
@@ -36,6 +40,7 @@ CA (Number of Major Vessels Colored by Flourosopy): Number of major vessels colo
 Thal (Thalassemia): Thalassemia.
 
 AHD: Presence of heart disease.
+
 
 Jupyter Notebooks
 Inspect the Jupyter Notebooks in order:
