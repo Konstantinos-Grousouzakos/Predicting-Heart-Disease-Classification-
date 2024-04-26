@@ -49,13 +49,21 @@ Finally, we split the dataset to facilitate model evaluation and validation.
 From Notebooks B2 to B9, we implemented several methods to address the problem. The methods used include:
 
 B2) Logistic Regression
+
 B3) Linear Discriminant Analysis
+
 B4) Quadratic Discriminant Analysis
+
 B5) K-Nearest Neighbors
+
 B6) Gaussian Naive Bayes
+
 B7) Random Forest Classifier
+
 B8) Support Vector Classifier
+
 B9) XGBOOST
+
 Lastly, in "C) Results_and_Conclusions", we compare model performance metrics and identify the most accurate prediction method.
 
 Note 1: Scaling
